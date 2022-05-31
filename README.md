@@ -1,6 +1,6 @@
 # Data-Driven Engineering
 
-Data engineering is the process of collecting and refining data. Clean and accessible data is an important preparatory step for many use cases that extract information and value from data. Data engineering is foundational to visualization, clustering, classification, regression, and other machine learning methods. This introductory course focusses on science and engineering applications of data science with particular emphasis on practical applications and specific examples.
+Data engineering is the process of collecting and refining data. Clean and accessible data is an important preparatory step for many use cases that extract information and value from data. Data engineering is foundational to visualization, clustering, classification, regression, and other machine learning methods. This introductory course is on science and engineering applications of data science with particular emphasis on practical applications and specific examples.
 
 ![Data-Driven Engineering](https://apmonitor.com/dde/uploads/Main/data_driven_engineering.png)
 
